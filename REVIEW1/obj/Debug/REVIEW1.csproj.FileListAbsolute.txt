@@ -1,0 +1,12 @@
+D:\VISII JR\REVIEW1\REVIEW1\bin\Debug\REVIEW1.exe.config
+D:\VISII JR\REVIEW1\REVIEW1\bin\Debug\REVIEW1.exe
+D:\VISII JR\REVIEW1\REVIEW1\bin\Debug\REVIEW1.pdb
+D:\VISII JR\REVIEW1\REVIEW1\bin\Debug\Guna.UI2.dll
+D:\VISII JR\REVIEW1\REVIEW1\obj\Debug\REVIEW1.csproj.AssemblyReference.cache
+D:\VISII JR\REVIEW1\REVIEW1\obj\Debug\REVIEW1.Form1.resources
+D:\VISII JR\REVIEW1\REVIEW1\obj\Debug\REVIEW1.Properties.Resources.resources
+D:\VISII JR\REVIEW1\REVIEW1\obj\Debug\REVIEW1.csproj.GenerateResource.cache
+D:\VISII JR\REVIEW1\REVIEW1\obj\Debug\REVIEW1.csproj.CoreCompileInputs.cache
+D:\VISII JR\REVIEW1\REVIEW1\obj\Debug\REVIEW1.csproj.CopyComplete
+D:\VISII JR\REVIEW1\REVIEW1\obj\Debug\REVIEW1.exe
+D:\VISII JR\REVIEW1\REVIEW1\obj\Debug\REVIEW1.pdb
